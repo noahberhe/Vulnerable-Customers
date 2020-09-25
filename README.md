@@ -1,2 +1,2 @@
-# vulnerablecustomers
+# Vulnerable Customers
 How can NLP be used to identify vulnerable customers under FCA guidelines
